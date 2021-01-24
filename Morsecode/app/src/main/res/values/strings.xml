@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Morse code</string>
+    <string name="button">.</string>
+    <string name="button2">-</string>
+    <string name="button3">⤶</string>
+    <string name="button4">⌫</string>
+    <string name="dash">-</string>
+    <string name="dot">•</string>
+    <string name="letterspace">Letter Space</string>
+    <string name="done_text">Done</string>
+    <string name="bspace">⌫</string>
+    <string name="wspace">Word space</string>
+    <string name="todo">TODO</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="flash">Flash</string>
+    <string name="beep">Beep</string>
+    <string name="input_text_here">Input Text Here</string>
+    <string name="input_morse_here">Input Morse Here</string>
+</resources>
